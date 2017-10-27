@@ -1,0 +1,27 @@
+{
+  "name": "levelgraph-cli",
+  "version": "0.0.1",
+  "description": "LevelGraph.io Command Line Interface of Awesomeness",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "levelgraph",
+    "triples",
+    "rdf",
+    "hexastore",
+    "cli",
+    "import",
+    "export",
+    "convert"
+  ],
+  "author": "John Wiley & Sons, Inc.",
+  "contributors": [
+    {
+      "name": "BigBlueHat",
+      "email": "byoung@bigbluehat.com"
+    }
+  ],
+  "license": "MIT"
+}
